@@ -1,4 +1,4 @@
-FUTBOL TAKIMI DEĞERLEMELERİNİ MAKİNE ÖĞRENMESİ MODELLERİYLE TAHMİN ETME
+## FUTBOL TAKIMI DEĞERLEMELERİNİ MAKİNE ÖĞRENMESİ MODELLERİYLE TAHMİN ETME
 PROJENİN AMACI:
 Bu projede futbol takımlarının fiyatlarını tahmin etmek için bir veri seti kullanılır.Veri seti, büyük Avrupa liglerindeki futbol takımı fiyatlarının analizi ve modellemesine yardımcı olmak için tasarlanmış titizlikle düzenlenmiş bir veri noktaları koleksiyonudur. Bu veri seti, futbol takımlarının finansal değerlemesini etkileyen faktörlere dair kapsamlı bir görünüm sağlayan çeşitli sayısal ve kategorik özellikleri kapsar.
 VERİ SETİ:
@@ -14,7 +14,7 @@ Kullanılan veri seti, 50000 satır içerir. Sütun isimleri ise sırasıyla şu
 -AverageAttendance(Ortalama Katılım)
 -TransferSpendingLastSeason(TransferHarcamalarıGeçenSezon)
 -TransferIncomeLastSeason(TransferGeliriGeçenSezon)
--NumberOfTrophies(Kupa Sayısı)
+-NumberOfTrophies(Kupa Sayısı) 
 -MarketValueOfSquad(Takımın Piyasa Değeri)
 -AveragePlayerMarketValue(ortalamaOyuncuPiyasaDeğeri)
 -YouthAcademyRating(gençlikAkademiDeğerlendirme)
